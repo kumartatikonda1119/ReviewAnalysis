@@ -86,10 +86,10 @@ Both backend and frontend are deployed using Render:
 ⚙️ Backend API: https://movie-review-api.onrender.com/predict
 
 
-🧾 Example Input / Output
-Input Review	Prediction
-"This movie was absolutely amazing!"	✅ Positive
-"Worst movie I’ve seen in years."	❌ Negative
+###🧾 Example Input / Output
+-Input Review	Prediction
+-This movie was absolutely amazing!"	✅ Positive
+-"Worst movie I’ve seen in years."	❌ Negative
 
 📚 Learnings
 
